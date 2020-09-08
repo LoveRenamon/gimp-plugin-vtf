@@ -1,7 +1,7 @@
 gimp-plugin-vtf
 ===============
 
-A plugin to open and save vtf files in GIMP.
+A plugin to open vtf files in GIMP.
 
 Developed by [lxndr](https://github.com/lxndr).
 
